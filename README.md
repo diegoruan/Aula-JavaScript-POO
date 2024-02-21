@@ -1,8 +1,6 @@
 
 ![imagem de apresentação](https://i.imgur.com/pPxHfOn.png)
 
-![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
-
 # Material da aula de JavaScript: programação orientada a objetos
 
 Arquivos que usei em aula
